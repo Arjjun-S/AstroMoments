@@ -1,0 +1,4236 @@
+[
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What causes a lunar eclipse",
+    "answer": "A lunar eclipse occurs when Earth passes between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "How does gravity work",
+    "answer": "Gravity is a force of attraction between objects with mass, keeping planets in orbit around the Sun."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "Why is Mars red",
+    "answer": "Mars appears red because its surface contains iron oxide, or rust, which reflects sunlight."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a comet",
+    "answer": "A comet is a small icy object that orbits the Sun and develops a glowing coma and tail when near it."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is dark matter",
+    "answer": "Dark matter is a mysterious substance that makes up most of the matter in the universe but doesn't emit light."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a constellation",
+    "answer": "A constellation is a group of stars that forms a recognizable pattern in the night sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a meteor shower",
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet, causing many meteors to streak across the sky."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "How many planets are in the solar system",
+    "answer": "There are eight recognized planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun but does not clear its orbit of other debris."
+  },
+  {
+    "question": "What is the International Space Station",
+    "answer": "The International Space Station is a large spacecraft orbiting Earth, where astronauts live and work."
+  },
+  {
+    "question": "What is the Milky Way",
+    "answer": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape it."
+  },
+  {
+    "question": "What is a nebula",
+    "answer": "A nebula is a giant cloud of dust and gas in space, often a birthplace for new stars."
+  },
+  {
+    "question": "What is a supernova",
+    "answer": "A supernova is a massive explosion that occurs when a star reaches the end of its life cycle."
+  },
+  {
+    "question": "How old is the universe",
+    "answer": "The universe is estimated to be about 13.8 billion years old."
+  },
+  {
+    "question": "How far is the Sun from Earth",
+    "answer": "The Sun is about 93 million miles, or 150 million kilometers, from Earth."
+  },
+  {
+    "question": "What is the solar wind",
+    "answer": "The solar wind is a stream of charged particles released from the Sun's atmosphere."
+  },
+  {
+    "question": "What is the Big Bang Theory",
+    "answer": "The Big Bang Theory explains how the universe began as a tiny, extremely hot point and has been expanding ever since."
+  },
+  {
+    "question": "What is the Hubble Space Telescope",
+    "answer": "The Hubble Space Telescope is a space-based observatory that has captured detailed images of distant objects in the universe."
+  },
+  {
+    "question": "When was Chandrayaan 1 launched",
+    "answer": "Chandrayaan-1, India's first lunar probe, was launched on 22 October 2008."
+  },
+  {
+    "question": "When was Chandrayaan 2 launched",
+    "answer": "Chandrayaan-2 was launched on 22 July 2019 as India's second lunar exploration mission."
+  },
+  {
+    "question": "Who was the first person on the Moon",
+    "answer": "Neil Armstrong was the first person to walk on the Moon on 20 July 1969 during the Apollo 11 mission."
+  },
+  {
+    "question": "What is Chandrayaan 3",
+    "answer": "Chandrayaan-3 is India's third lunar mission focused on a safe and soft landing on the Moon's surface."
+  },
+  {
+    "question": "What is ISRO",
+    "answer": "ISRO stands for Indian Space Research Organisation, the space agency of the Government of India."
+  },{
+    "question": "When was Mangalyaan launched",
+    "answer": "Mangalyaan, also known as the Mars Orbiter Mission, was launched by ISRO on 5 November 2013."
+  },
+  {
+    "question": "What is Mangalyaan mission",
+    "answer": "Mangalyaan is India's first interplanetary mission that successfully entered Mars orbit on 24 September 2014."
+  },
+  {
+    "question": "When was Aditya L1 launched",
+    "answer": "Aditya-L1, ISRO's first solar observatory, was launched on 2 September 2023."
+  },
+  {
+    "question": "What is Aditya L1 mission",
+    "answer": "Aditya-L1 studies the Sun's outer layers and helps scientists understand space weather."
+  },
+  {
+    "question": "What is PSLV",
+    "answer": "PSLV stands for Polar Satellite Launch Vehicle, India's trusted workhorse rocket for launching satellites into polar orbits."
+  },
+  {
+    "question": "What is GSLV",
+    "answer": "GSLV is the Geosynchronous Satellite Launch Vehicle, used to place heavier satellites into geostationary orbits."
+  },
+  {
+    "question": "What is Gaganyaan mission",
+    "answer": "Gaganyaan is India's first human spaceflight program, planned to send astronauts into low Earth orbit."
+  },
+  {
+    "question": "Who is the chairman of ISRO",
+    "answer": "As of 2024, S. Somanath serves as the chairman of ISRO."
+  },
+  {
+    "question": "What is Astrosat",
+    "answer": "Astrosat is India's first multi-wavelength space observatory launched in 2015 to study celestial sources in different wavelengths."
+  },
+  {
+    "question": "Where is ISRO headquarters",
+    "answer": "ISRO headquarters is located in Bengaluru, Karnataka, India."
+  },
+  {
+    "question": "What is the Orion Nebula",
+    "answer": "The Orion Nebula is a bright region of gas and dust in the constellation Orion, where new stars are forming."
+  },
+  {
+    "question": "What is the Horsehead Nebula",
+    "answer": "The Horsehead Nebula is a small dark nebula in Orion that resembles the shape of a horse's head."
+  },
+  {
+    "question": "What is the Crab Nebula",
+    "answer": "The Crab Nebula is the remnant of a supernova explosion observed on Earth in 1054 AD, located in the constellation Taurus."
+  },
+  {
+    "question": "What is Titan",
+    "answer": "Titan is Saturn's largest moon and has lakes of liquid methane and a thick nitrogen atmosphere."
+  },
+  {
+    "question": "Could humans live on Titan",
+    "answer": "Titan's extreme cold and lack of oxygen make it impossible to live there without advanced habitats and life support."
+  },
+  {
+    "question": "What is a wormhole",
+    "answer": "A wormhole is a hypothetical passage through space-time that could connect distant points instantly, popular in science fiction."
+  },
+  {
+    "question": "Is time travel possible",
+    "answer": "Time travel into the future is theoretically possible through time dilation, but traveling back in time remains speculative."
+  },
+  {
+    "question": "What is a Dyson Sphere",
+    "answer": "A Dyson Sphere is a fictional megastructure built around a star to capture all its energy output."
+  },
+  {
+    "question": "What is an exoplanet",
+    "answer": "An exoplanet is a planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "What is a rogue planet",
+    "answer": "A rogue planet is a planet that drifts freely through space without orbiting any star."
+  },
+  {
+    "question": "What is a ring galaxy",
+    "answer": "A ring galaxy has a ring-like structure formed from galactic collisions or interactions."
+  },
+  {
+    "question": "What is a quasar",
+    "answer": "A quasar is an extremely bright and energetic object powered by a supermassive black hole at the center of a galaxy."
+  },
+  {
+    "question": "Could humans terraform Mars",
+    "answer": "Terraforming Mars would require warming the planet and creating a breathable atmosphere, which is far beyond current technology."
+  },
+  {
+    "question": "What is the Andromeda Galaxy",
+    "answer": "The Andromeda Galaxy is the closest large galaxy to the Milky Way and will merge with it in about 4 billion years."
+  },
+  {
+    "question": "Is there life on other planets",
+    "answer": "No confirmed life has been found yet, but scientists continue to search for signs of life beyond Earth."
+  },
+  {
+    "question": "What is a white dwarf",
+    "answer": "A white dwarf is the dense, hot remnant left after a low or medium mass star has exhausted its fuel."
+  },
+  {
+    "question": "What is a neutron star",
+    "answer": "A neutron star is an extremely dense stellar remnant left behind after a massive star explodes as a supernova."
+  },
+  {
+    "question": "What is a black hole",
+    "answer": "A black hole is a region of space where gravity is so strong that not even light can escape."
+  },
+  {
+    "question": "What is interstellar travel",
+    "answer": "Interstellar travel means traveling between stars, which is still science fiction because of huge distances and energy needs."
+  },
+  {
+    "question": "What is a light year",
+    "answer": "A light year is the distance that light travels in one year, about 9.46 trillion kilometers."
+  },
+  {
+    "question": "What is a supermassive black hole",
+    "answer": "A supermassive black hole is a black hole millions or billions of times more massive than the Sun, found at the center of galaxies."
+  },
+  {
+    "question": "Can a black hole destroy Earth",
+    "answer": "There is no black hole near enough to Earth to pose any danger."
+  },
+  {
+    "question": "What is a pulsar",
+    "answer": "A pulsar is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation."
+  },
+  {
+    "question": "What is an asteroid belt",
+    "answer": "An asteroid belt is a region of space between Mars and Jupiter filled with rocky bodies."
+  },
+  {
+    "question": "What is a dwarf planet",
+    "answer": "A dwarf planet is a celestial body that orbits the Sun and is large enough to be rounded by its gravity but has not cleared its orbital path."
+  },
+  {
+    "question": "What is Pluto",
+    "answer": "Pluto is a dwarf planet in the Kuiper Belt, once considered the ninth planet of our Solar System."
+  },
+  {
+    "question": "What is a gamma ray burst",
+    "answer": "A gamma ray burst is an extremely energetic explosion observed in distant galaxies, thought to be caused by collapsing massive stars."
+  },
+  {
+    "question": "What is an event horizon",
+    "answer": "The event horizon is the boundary around a black hole beyond which nothing can escape."
+  },
+  {
+    "question": "Can humans live on Europa",
+    "answer": "Europa, a moon of Jupiter, has a subsurface ocean but is extremely cold and has high radiation, so humans would need protected habitats."
+  },
+  {
+    "question": "What is a megastructure",
+    "answer": "A megastructure is a large artificial structure in space, often found in science fiction like Dyson Spheres or space habitats."
+  },
+  {
+    "question": "What is a multiverse",
+    "answer": "The multiverse is a hypothetical concept where multiple universes exist alongside ours."
+  },
+  {
+    "question": "Could aliens exist",
+    "answer": "There is no evidence yet, but given the vast size of the universe, many scientists think alien life is possible."
+  },
+  {
+    "question": "What is SETI",
+    "answer": "SETI stands for Search for Extraterrestrial Intelligence, a scientific effort to detect signals from alien civilizations."
+  },
+  {
+    "question": "What is a solar flare",
+    "answer": "A solar flare is a sudden burst of radiation from the Sun's surface that can affect Earth's magnetic field and satellites."
+  },
+  {
+    "question": "What is space weather",
+    "answer": "Space weather describes conditions in space influenced by the Sun, including solar flares and solar wind."
+  },
+  {
+    "question": "What is an Oort Cloud",
+    "answer": "The Oort Cloud is a hypothetical distant region of icy bodies surrounding our Solar System, believed to be a source of comets."
+  },
+  {
+    "question": "What is a Kuiper Belt",
+    "answer": "The Kuiper Belt is a region beyond Neptune filled with small icy bodies and dwarf planets like Pluto."
+  },
+  {
+    "question": "What is a brown dwarf",
+    "answer": "A brown dwarf is an object too large to be a planet but too small to sustain hydrogen fusion like a star."
+  },
+  {
+    "question": "What is a super Earth",
+    "answer": "A super Earth is an exoplanet with a mass larger than Earth's but smaller than ice giants like Uranus or Neptune."
+  },
+  {
+    "question": "Can humans live on Mars",
+    "answer": "Mars has no breathable air and extreme cold, so humans would need pressurized habitats and life support systems."
+  },
+  {
+    "question": "who are you",
+    "answer": "Hi, I am Nebula chatBot made by SRM students ARJJUN S,PRANAV JAI H A,THIRU KARTHICK S"
+  },
+  {
+    "question": "what is are name",
+    "answer": "Hi, I am Nebula chatBot made by SRM students ARJJUN S,PRANAV JAI H A,THIRU KARTHICK S"
+  },
+  {
+    "question": "how are you",
+    "answer": " I am fine!.how are you? Thank you for your consern "
+  },{
+    "question": "i love you",
+    "answer": "Sorry,I can't answer. Try asking about planets, stars, ISRO or black holes!"}
+  
+]
