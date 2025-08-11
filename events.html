@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Space Events Timeline</title>
+  <link rel="stylesheet" href="events.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo-title">
+      <img src="images/logo.png" alt="Logo" class="logo" />
+      <h1>ASTROMOMENTS</h1>
+    </div>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="3d.html">3D</a>
+      <a href="phenomena.html">Phenomena</a>
+      <a href="events.html" class="active">Events</a>
+      <a href="calendar.html">Calendar</a>
+    </nav>
+  </header>
+
+  <main id="eventsContainer">
+    <div id="eventsGrid" class="events-container"></div>
+  </main>
+
+  <script src="data/event.js"></script>
+  <!-- ✅ Nebula Narrator Chatbot -->
+<div id="nebula-bot">
+  <img src="images/bot.png" alt="Nebula Narrator" id="nebula-bot-logo" />
+  <div id="nebula-chatbox" class="hidden">
+  <div id="nebula-header">Nebula Narrator</div>
+  <div id="nebula-messages"></div>
+  <div id="nebula-input-area">
+    <input type="text" id="nebula-input" placeholder="Ask anything about space?" />
+    <button id="nebula-send">Send</button>
+  </div>
+</div>
+
+
+<link rel="stylesheet" href="chatbot.css" />
+<script src="chatbot.js"></script>
+
+</body>
+</html>

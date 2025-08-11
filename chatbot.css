@@ -1,0 +1,80 @@
+/* ✅ Nebula Narrator Chatbot — Aligned input + button */
+
+#nebula-bot {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+#nebula-bot-logo {
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+#nebula-bot-logo:hover {
+  transform: scale(1.1);
+}
+
+#nebula-chatbox {
+  width: 300px;
+  max-height: 400px;
+  position: absolute;
+  bottom: 80px;
+  right: 0;
+  background: rgba(0, 0, 0, 0.9); /* Black main window */
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+#nebula-chatbox.hidden {
+  display: none;
+}
+
+#nebula-header {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+#nebula-messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  color: #fff;
+}
+
+/* ✅ Input + Send: wrap together, aligned side by side */
+#nebula-input-area {
+  display: flex;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#nebula-input {
+  flex: 1;
+  border: none;
+  padding: 10px;
+  outline: none;
+  background: rgba(255, 255, 255, 0.1); /* Transparent glass input */
+  color: #fff;
+}
+
+#nebula-send {
+  width: 80px;
+  border: none;
+  background: #ccc;   /* Grey button */
+  color: #000;        /* Black text */
+  cursor: pointer;
+  text-align: center;
+}
+
+#nebula-send:hover {
+  background: #bbb;
+}

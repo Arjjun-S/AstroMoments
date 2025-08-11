@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>3D Solar System</title>
+  <link rel="stylesheet" href="3d.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="logo-title">
+      <img src="images/logo.png" alt="Logo" class="logo" />
+      <h1>ASTROMOMENTS</h1>
+    </div>
+    <nav class="main-nav">
+      <a href="index.html" class="active">Home</a>
+      <a href="3d.html">3D</a>
+      <a href="phenomena.html">Phenomena</a>
+      <a href="events.html">Events</a>
+      <a href="calendar.html">Calendar</a>
+    </nav>
+  </header>
+  <!-- Dropdown Menu -->
+  <div class="dropdown">
+    <button class="dropbtn">☰ Select</button>
+    <div class="dropdown-content">
+      <button onclick="focusOn('All')">o All Planets</button>
+      <button onclick="focusOn('Sun')">o Sun</button>
+      <button onclick="focusOn('Mercury')">o Mercury</button>
+      <button onclick="focusOn('Venus')">o Venus</button>
+      <button onclick="focusOn('Earth')">o Earth</button>
+      <button onclick="focusOn('Moon')">o Moon</button>
+      <button onclick="focusOn('Mars')">o Mars</button>
+      <button onclick="focusOn('Jupiter')">o Jupiter</button>
+      <button onclick="focusOn('Saturn')">o Saturn</button>
+      <button onclick="focusOn('Uranus')">o Uranus</button>
+      <button onclick="focusOn('Neptune')">o Neptune</button>
+      <button onclick="focusOn('Ceres')">o Ceres</button>
+      <button onclick="focusOn('Haumea')">o Haumea</button>
+      <button onclick="focusOn('Makemake')">o Makemake</button>
+      <button onclick="focusOn('Eris')">o Eris</button>
+    </div>
+  </div>
+
+  <!-- JS -->
+  <script type="module" src="3d.js"></script>
+  <!-- ✅ Nebula Narrator Chatbot -->
+<div id="nebula-bot">
+  <img src="images/bot.png" alt="Nebula Narrator" id="nebula-bot-logo" />
+  <div id="nebula-chatbox" class="hidden">
+  <div id="nebula-header">Nebula Narrator</div>
+  <div id="nebula-messages"></div>
+  <div id="nebula-input-area">
+    <input type="text" id="nebula-input" placeholder="Ask anything about space?" />
+    <button id="nebula-send">Send</button>
+  </div>
+</div>
+
+
+<link rel="stylesheet" href="chatbot.css" />
+<script src="chatbot.js"></script>
+
+</body>
+</html>

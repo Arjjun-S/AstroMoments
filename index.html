@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AstroMoments - Home</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="home.css" />
+</head>
+<body>
+
+  <!-- Header with Logo and Nav -->
+  <header class="site-header">
+    <div class="logo-title">
+      <img src="images/logo.png" alt="Logo" class="logo" />
+      <h1>AstroMoments</h1>
+    </div>
+    <nav class="main-nav">
+      <a href="index.html" class="active">Home</a>
+      <a href="3d.html">3D</a>
+      <a href="phenomena.html">Phenomena</a>
+      <a href="events.html">Events</a>
+      <a href="calendar.html">Calendar</a>
+    </nav>
+  </header>
+
+  <!-- Carousel -->
+  <!-- === Upcoming Events Section === -->
+<section class="events-section">
+  <h2 class="events-heading"><u>Upcoming Events</u></h2>
+
+  <div class="slider">
+    <div id="slider" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
+      <div class="carousel-inner">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active">
+          <img src="images/eclipse.jpg" class="d-block w-100" alt="Eclipse" height="422px">
+          <div class="carousel-caption">
+            <h5>Eclipse</h5>
+            <p>Next: Aug 12, 2025</p>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item">
+          <img src="images/meteor-shower.jpg" class="d-block w-100" alt="Meteor Shower" height="422px">
+          <div class="carousel-caption">
+            <h5>Meteor Shower</h5>
+            <p>Next: Jul 28, 2025</p>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item">
+          <img src="images/space-launch.jpg" class="d-block w-100" alt="Space Launch" height="422px">
+          <div class="carousel-caption">
+            <h5>Space Launch</h5>
+            <p>Next: Sep 3, 2025</p>
+          </div>
+        </div>
+
+        <!-- Slide 4 -->
+        <div class="carousel-item">
+          <img src="images/planetary-alignment.jpg" class="d-block w-100" alt="Planetary Alignment" height="422px">
+          <div class="carousel-caption">
+            <h5>Planetary Alignment</h5>
+            <p>Next: Oct 17, 2025</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dashed Indicators with Labels -->
+      <ol class="carousel-indicators custom-indicators">
+        <li data-target="#slider" data-slide-to="0" class="active">Eclipse</li>
+        <li data-target="#slider" data-slide-to="1">Meteor Shower</li>
+        <li data-target="#slider" data-slide-to="2">Launch</li>
+        <li data-target="#slider" data-slide-to="3">Planet Align.</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+  <!-- Optional Welcome Section -->
+  <section class="intro">
+    <h2>Welcome to AstroMoments</h2>
+    <p>Track the cosmos — follow eclipses, space missions, meteor showers, and planetary alignments in real-time.</p>
+  </section>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+<!-- ✅ Nebula Narrator Chatbot -->
+<div id="nebula-bot">
+  <img src="images/bot.png" alt="Nebula Narrator" id="nebula-bot-logo" />
+  <div id="nebula-chatbox" class="hidden">
+  <div id="nebula-header">Nebula Narrator</div>
+  <div id="nebula-messages"></div>
+  <div id="nebula-input-area">
+    <input type="text" id="nebula-input" placeholder="Ask anything about space?" />
+    <button id="nebula-send">Send</button>
+  </div>
+</div>
+
+
+<link rel="stylesheet" href="chatbot.css" />
+<script src="chatbot.js"></script>
+
+</body>
+</html>

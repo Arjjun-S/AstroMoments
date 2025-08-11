@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AstroMoments – Phenomena</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="phenomena.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo-title">
+      <img src="images/logo.png" alt="Logo" class="logo"/>
+      <h1>AstroMoments</h1>
+    </div>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="3d.html">3D</a>
+      <a href="phenomena.html" class="active">Phenomena</a>
+      <a href="events.html">Events</a>
+      <a href="calendar.html">Calendar</a>
+    </nav>
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search space phenomena…" />
+      <button id="searchBtn">Search</button>
+    </div>
+  </header>
+
+  <main class="container my-5">
+    <div id="videoContainer" class="glass-box text-center py-4">
+      <p>Search for a phenomenon to see a video.</p>
+    </div>
+  </main>
+
+  <script>
+    let phenomena = {};
+    fetch('data/phenomena.json')
+      .then(r => r.json())
+      .then(j => phenomena = j);
+
+    document.getElementById('searchBtn').addEventListener('click', () => {
+      const query = document.getElementById('searchInput').value.trim().toLowerCase();
+      const videoContainer = document.getElementById('videoContainer');
+      const vidUrl = phenomena[query];
+      if (vidUrl) {
+        videoContainer.innerHTML = `<div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="${vidUrl}" allowfullscreen></iframe>
+        </div>
+        <div class="video-title">${capitalizeWords(query)}</div>`;
+      } else {
+        videoContainer.innerHTML = `<p>No video found for “${query}”.</p>`;
+      }
+    });
+
+    function capitalizeWords(str) {
+      return str.replace(/\b\w/g, c => c.toUpperCase());
+    }
+  </script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+<!-- ✅ Nebula Narrator Chatbot -->
+<div id="nebula-bot">
+  <img src="images/bot.png" alt="Nebula Narrator" id="nebula-bot-logo" />
+  <div id="nebula-chatbox" class="hidden">
+  <div id="nebula-header">Nebula Narrator</div>
+  <div id="nebula-messages"></div>
+  <div id="nebula-input-area">
+    <input type="text" id="nebula-input" placeholder="Ask anything about space?" />
+    <button id="nebula-send">Send</button>
+  </div>
+</div>
+
+
+<link rel="stylesheet" href="chatbot.css" />
+<script src="chatbot.js"></script>
+
+</body>
+</html>
