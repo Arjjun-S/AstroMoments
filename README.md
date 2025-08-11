@@ -4,7 +4,7 @@ AstroMoments is our team project created to demonstrate astronomical events and 
 
 ---
 
-**🌐 [Visit the Hosted Website Here](#) [https://astro-moments-one.vercel.app/index.html]**
+**🌐 [Visit the Hosted Website Here](#)(https://astro-moments-one.vercel.app/index.html)**
 
 ---
 
